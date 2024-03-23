@@ -1,6 +1,5 @@
 # GRASS
 <b>GRound Exploration Robots</b>
-![diagram-export-3-23-2024-1_36_03-PM](https://github.com/UPC-Space-Program-GRASS/.github/assets/61521609/75f911b5-dfff-457a-a662-edb2f2494971)
 
 ## About The Project
 <img align="right" src="https://static.wixstatic.com/media/f3f614_9d95691939054ee9855cd8359ed02fcc~mv2.jpg/v1/fill/w_980,h_912,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/f3f614_9d95691939054ee9855cd8359ed02fcc~mv2.jpg" style="width: 450px">
