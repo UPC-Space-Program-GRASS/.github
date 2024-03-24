@@ -2,7 +2,7 @@
 <b>GRound Exploration Robots</b>
 
 ## About The Project
-<img align="right" src="https://github.com/UPC-Space-Program-GRASS/.github/assets/61521609/5736f1c4-79d9-41f7-aa45-9b336e7a0bc8" style="width: 700px">
+<img align="right" src="https://github.com/UPC-Space-Program-GRASS/.github/assets/61521609/5736f1c4-79d9-41f7-aa45-9b336e7a0bc8" style="width: 500px">
 
 The GRound Autonomous Student Station (GRASS) has as its objective to get students acquainted with space robotics through the design and development of an autonomous rover with features such as terrain recognition, sample retrieving, and obstacle evasion.
 
